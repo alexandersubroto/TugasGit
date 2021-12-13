@@ -1,5 +1,5 @@
 # Hotel Del Jojo
-|-| Tipe Kamar  | Harga |
+| | Tipe Kamar  | Harga |
 |-| ------------- | ------------- |
 |1| Pantai  |₩3,000,0000 |
 |2| Rooftop  |₩4,500,0000  |
